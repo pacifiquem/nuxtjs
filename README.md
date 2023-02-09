@@ -9,6 +9,6 @@
 
 ## usage
 ```js
-    const nuxtjs = require('nuxtjs');
+    const nuxtjs = require('nuxt-referencer');
     nuxtjs();
 ```
