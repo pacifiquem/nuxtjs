@@ -1,0 +1,29 @@
+{
+  "name": "nuxtjs",
+  "version": "0.0.0",
+  "description": "Nuxt Refrencer Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacifiquem/nuxtjs.git"
+  },
+  "keywords": [
+    "Nuxt",
+    "Node",
+    "Frontend"
+  ],
+  "author": "pacifiquem@github.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pacifiquem/nuxtjs/issues"
+  },
+  "homepage": "https://github.com/pacifiquem/nuxtjs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "npx-proj": "^2.0.8",
+    "pacifiquem": "^7.0.0"
+  }
+}
