@@ -1,10 +1,10 @@
-# nuxtjs
+# nuxt-referencer
 - This is nuxt referencer package
 - [Nuxt Framework](https://npmjs.com/package/nuxt)
 
 ## Installation
 ```js
-    npm i nuxtjs
+    npm i nuxt-referencer
 ```
 
 ## usage
